@@ -1,0 +1,2 @@
+# Real-Time-Plant-Disease-Detection-in-Smart-Agriculture-Using-a-YOLO11-Based-Deep-Learning-Model
+Real-time plant disease detection system using YOLO11x, trained on a 23-class multi-crop dataset (Chili, Eggplant, Potato, Tomato). Achieves 99% precision and robust performance under field conditions. Includes training scripts, model weights, ablation studies, failure case analysis, and cross-dataset evaluation.
