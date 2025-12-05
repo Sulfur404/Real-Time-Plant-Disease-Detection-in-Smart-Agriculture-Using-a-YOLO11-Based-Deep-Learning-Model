@@ -1,0 +1,24 @@
+Class Name,Total Count,Training Count,Validation Count,Test Count
+Tomato___Healthy_fruit,1284,1163,0,121
+Potato___Healthy_fruit,1138,937,0,201
+Eggplant___Healthy_leaf,1067,942,125,0
+Eggplant___Colorado_potato_beetle,795,548,247,0
+Chili___Anthracnose_fruit,708,156,184,368
+Eggplant___Fruit_rot,594,594,0,0
+Eggplant___Cercospora_leaf_spot,575,475,100,0
+Potato___Healthy_leaf,539,432,0,107
+Chili___Healthy_leaf,508,286,222,0
+Potato___Common_scab_fruit,471,371,63,37
+Chili___Bacterial_leaf_spot,447,263,184,0
+Tomato___Leaf_mold,435,396,0,39
+Tomato___Antrhacnose_fruit,433,353,0,80
+Tomato___Healthy_leaf,412,372,0,40
+Tomato___Tomato_yellow_leaf_curl_virus,406,367,0,39
+Eggplant___Healthy_fruit,402,402,0,0
+Potato___Phytopthora_infestans_leaf,391,309,0,82
+Potato___Alternaria_solani_leaf,388,312,76,0
+Chili___Mosaic_virus_leaf,381,307,74,0
+Tomato___Late_blight_leaf,380,342,0,38
+Tomato___Early_blight_leaf,374,313,0,61
+Tomato___Bacterial_spot_leaf,363,289,0,74
+Chili___Healthy_fruit,360,343,17,0
