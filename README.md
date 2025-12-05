@@ -20,7 +20,7 @@ The model achieves:
 
 ##  Repository Contents
 
-### **1. `training_script_yolo11x.ipynb`**
+### **1. `Training_Script_Yolo11x.ipynb`**
 Main training notebook used for YOLO11x model training (Kaggle environment).
 
 ### **2. `config_files/`**
